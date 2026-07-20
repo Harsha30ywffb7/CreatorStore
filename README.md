@@ -59,3 +59,6 @@ Major Deps using:
 - OpenApi - for the documentation 
 
 
+- Make sure do some setup related db and application in the application.properties file
+
+
