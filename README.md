@@ -61,4 +61,6 @@ Major Deps using:
 
 - Make sure do some setup related db and application in the application.properties file
 
+- Need to add annotations for the class to access the spring properties {@Entity, @setter, @Getter....}
+
 
