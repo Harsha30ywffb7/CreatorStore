@@ -63,4 +63,12 @@ Major Deps using:
 
 - Need to add annotations for the class to access the spring properties {@Entity, @setter, @Getter....}
 
+Repository:
+- Which is used to communicate with the db and data.
+
+Queries:
+
+- Where to use the Jsonbackreference and JsonmanagedReferences?
+-     @Transactional? why it is?
+
 
